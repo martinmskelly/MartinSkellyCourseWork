@@ -1,0 +1,10 @@
+main article img{
+    width: 100%;
+}
+#experiemntImage{
+    margin: 6px 0 3px 0;
+    width: 100%;
+    border: 15px solid #00b6a8;
+}
+
+.panel-heading{background-color: #00b6a8;}
